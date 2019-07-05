@@ -1,0 +1,5 @@
+/* This is the dfault styling for the shortocde if there is no Fallback set in options and no style in the shortcode */
+.defaultHeading {
+	font-size: 42px;
+	color: #000;
+}
